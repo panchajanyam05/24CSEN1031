@@ -19,7 +19,7 @@ int main() {
     return 0;
 }
 
-
+// to check whether negative no. is even or odd
 #include <stdio.h>
 
 int main() {
